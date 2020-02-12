@@ -1,7 +1,54 @@
 {
+  "seatinfo": {
+    "updatetime": "1570242891",
+    "seats": [
+      {
+        "id": "seat-0100001",
+        "name": "User0001",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100002",
+        "name": "",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100003",
+        "name": "User0003",
+        "attribute": "seat"
+      },
+      {
+        "id": "meeting-001",
+        "name": "A会議室",
+        "attribute": "meetingroom"
+      },
+      {
+        "id": "meeting-002",
+        "name": "C会議室",
+        "attribute": "meetingroom"
+      }
+    ]
+  },
+  "sittingstatus": [
+    {
+      "id": "seat-0100001",
+      "updatetime": "1570242891",
+      "state": "Attend"
+    },
+    {
+      "id": "seat-0100002",
+      "updatetime": "1570242891",
+      "state": "Free"
+    },
+    {
+      "id": "seat-0100003",
+      "updatetime": "1570242891",
+      "state": "Absent"
+    }
+  ],
   "schedule": [
     {
-      "user": "0001",
+      "id": "seat-0100001",
       "schedule": [
         {
           "title": "sched.1",
@@ -16,7 +63,7 @@
       ]
     },
     {
-      "user": "0002",
+      "user": "seat-0100003",
       "schedule": [
         {
           "title": "sched.3",
