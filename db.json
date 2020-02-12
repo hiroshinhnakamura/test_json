@@ -63,7 +63,7 @@
       ]
     },
     {
-      "user": "seat-0100003",
+      "id": "seat-0100003",
       "schedule": [
         {
           "title": "sched.3",
