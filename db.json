@@ -18,13 +18,48 @@
         "attribute": "seat"
       },
       {
+        "id": "seat-0100004",
+        "name": "User0004",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100005",
+        "name": "",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100006",
+        "name": "User0006",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100007",
+        "name": "User0007",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100008",
+        "name": "User0008",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100009",
+        "name": "User0009",
+        "attribute": "seat"
+      },
+      {
+        "id": "seat-0100010",
+        "name": "User0010",
+        "attribute": "seat"
+      },
+      {
         "id": "meeting-001",
         "name": "A会議室",
         "attribute": "meetingroom"
       },
       {
         "id": "meeting-002",
-        "name": "C会議室",
+        "name": "B会議室",
         "attribute": "meetingroom"
       }
     ]
@@ -42,6 +77,41 @@
     },
     {
       "id": "seat-0100003",
+      "updatetime": "1570242891",
+      "state": "Absent"
+    },
+    {
+      "id": "seat-0100004",
+      "updatetime": "1570242891",
+      "state": "Attend"
+    },
+    {
+      "id": "seat-0100005",
+      "updatetime": "1570242891",
+      "state": "Free"
+    },
+    {
+      "id": "seat-0100006",
+      "updatetime": "1570242891",
+      "state": "Absent"
+    },
+    {
+      "id": "seat-0100007",
+      "updatetime": "1570242891",
+      "state": "Attend"
+    },
+    {
+      "id": "seat-0100008",
+      "updatetime": "1570242891",
+      "state": "Attend"
+    },
+    {
+      "id": "seat-0100009",
+      "updatetime": "1570242891",
+      "state": "Absent"
+    },
+    {
+      "id": "seat-0100010",
       "updatetime": "1570242891",
       "state": "Absent"
     }
